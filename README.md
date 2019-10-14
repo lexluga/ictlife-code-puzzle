@@ -6,7 +6,7 @@ git clone https://github.com/lexluga/ictlife-code-puzzle
 
 # Run
 To Execute the file run open your terminal or python console and run 
-python CryptArithmetic.py
+>>> python CryptArithmetic.py
 
 # Pseudocode
 1. Find All the letters in the puzzle 
